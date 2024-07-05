@@ -197,7 +197,7 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`id`, `name`, `email`, `email_verified_at`, `password`, `remember_token`, `created_at`, `updated_at`) VALUES
 (1, 'Adrian Gross', 'qywozu@mailinator.com', NULL, '$2y$12$/TbkmuzBu.73jFnB9O6iieZyQJm5KiM3LmY5VGHG2065q0/auxCtW', NULL, '2024-07-04 07:12:42', '2024-07-04 07:12:42'),
-(2, 'Muhammad Ahmer Tahir', 'ahmertahirbusiness@proton.me', NULL, '$2y$12$244X8Pmpl.qi7OorqDx4rep6cbX/wrGtcnOtQbSnG26Rcp0CvyMkq', NULL, '2024-07-04 07:13:20', '2024-07-04 07:13:20');
+(2, 'Muhammad Ahmer Tahir', 'ahmer@proton.me', NULL, '$2y$12$244X8Pmpl.qi7OorqDx4rep6cbX/wrGtcnOtQbSnG26Rcp0CvyMkq', NULL, '2024-07-04 07:13:20', '2024-07-04 07:13:20');
 
 --
 -- Indexes for dumped tables
